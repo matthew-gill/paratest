@@ -46,7 +46,7 @@
         "phpunit/phpunit": "^10.4.1",
         "sebastian/environment": "^6.0.1",
         "symfony/console": "*",
-        "symfony/process": "^6.3.4 || ^7.0.0"
+        "symfony/process": "*"
     },
     "require-dev": {
         "ext-pcov": "*",
